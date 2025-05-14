@@ -1,0 +1,6 @@
+server/node_modules/
+server/uploads/     
+server/package-lock.json
+server/.env
+server/.env.test
+server/npm-debug.log*
